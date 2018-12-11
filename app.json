@@ -1,13 +1,15 @@
 {
   "pages": [
+    "pages/listpage/listpage",
     "pages/helloworld/helloworld",
     "pages/index/index",
     "pages/logs/logs"
   ],
   "window": {
+    "navigationBarBackgroundColor": "#242424",
+    "navigationBarTitleText": "FuckedUp",
+    "navigationBarTextStyle": "white",
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
+    "backgroundColor": "#EBB633"
   }
 }

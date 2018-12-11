@@ -1,0 +1,7 @@
+<view>
+  <block wx:for="{{items}}" wx:for-item="fuck" wx:for-index="shit" wx:key="index">
+    <view>
+      {{shit}}:{{fuck}}
+    </view>
+  </block>
+</view>

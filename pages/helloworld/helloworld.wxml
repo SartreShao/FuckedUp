@@ -1,3 +1,3 @@
-<view>
-  Hello World!
+<view hidden='{{flag}}'>
+  {{message}}
 </view>
